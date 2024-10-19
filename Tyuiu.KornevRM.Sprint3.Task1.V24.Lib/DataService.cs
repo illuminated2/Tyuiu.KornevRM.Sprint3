@@ -8,7 +8,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task1.V24.Lib
             double sumSeries = 0;
             while (startValue <= stopValue)
             {
-                sumSeries = sumSeries + (Math.Pow((2 / (Math.Pow(6 + value, startValue))), startValue));
+                sumSeries += Math.Pow(2 / (6 + Math.Pow(value, startValue)), startValue);
                 startValue++;
             }
             return Math.Round(sumSeries, 3);
