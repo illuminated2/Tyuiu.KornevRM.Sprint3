@@ -11,7 +11,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task3.V3.Test
             string value = "cvbmzff orffgtrr dkfvfffdr";
             char item = 'f';
             int res = ds.GetMinCharCount(value,item);
-            int wait = 8;
+            int wait = 2;
             Assert.AreEqual(wait,res);
 
 
