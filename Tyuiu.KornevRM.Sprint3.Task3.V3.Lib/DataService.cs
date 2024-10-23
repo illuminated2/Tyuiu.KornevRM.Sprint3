@@ -5,10 +5,15 @@ namespace Tyuiu.KornevRM.Sprint3.Task3.V3.Lib
     {
         public int GetMinCharCount(string value, char item)
         {
-            int count = 2;
+            int count = 0;
             foreach (char c in value)
             {
-                
+                if(c == item)
+                {
+                    count = 2;
+                    continue;
+                    
+                }
                 
             }
             return count;
