@@ -5,16 +5,17 @@ namespace Tyuiu.KornevRM.Sprint3.Task5.V14.Lib
     {
         public double GetSumSumSeries(int x, int startValue1, int startValue2, int stopValue1, int stopValue2)
         {
-            double count = 0;
-            for (int i = startValue1; i <= stopValue1; i++)
+            double sumSeries = 0;
+            int i, k;
+            for (i = startValue1; i <= stopValue1; i++)
             {
-                for (int j = startValue2; j <= stopValue2; j++)
+                for (k = startValue2; k <= stopValue2; k++)
                 {
-                    count += (Math.Sin(x) + (2.0 / stopValue2));
-
+                    sumSeries += Math.Sin(x) + 2 / k;
                 }
+
             }
-            return Math.Round(count, 3);
+            return Math.Round(sumSeries, 3);
         }
     }
 }

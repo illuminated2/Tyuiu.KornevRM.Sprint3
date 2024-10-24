@@ -16,8 +16,8 @@ namespace Tyuiu.KornevRM.Sprint3.Task5.V14
             int stopValue2 = 14;
             Console.WriteLine("Переменная Х = " + x);
             Console.WriteLine("Старт 1 шага = " + startValue1);
-            Console.WriteLine("Конец 1 шага = " + stopValue2); 
-            Console.WriteLine("Старт 2 шага = " + startValue1);
+            Console.WriteLine("Конец 1 шага = " + stopValue1); 
+            Console.WriteLine("Старт 2 шага = " + startValue2);
             Console.WriteLine("Конец 2 шага = " + stopValue2);
 
             Console.WriteLine("***************************************************************************");
