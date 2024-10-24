@@ -10,7 +10,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task5.V14.Lib
             {
                 for (int j = startValue2; j <= stopValue2; j++)
                 {
-                    count += (Math.Sin(x) + (2 / startValue2));
+                    count += (Math.Sin(x) + (2.0 / stopValue2));
 
                 }
             }
