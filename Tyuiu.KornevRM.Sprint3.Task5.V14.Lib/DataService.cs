@@ -11,7 +11,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task5.V14.Lib
             {
                 for (k = startValue2; k <= stopValue2; k++)
                 {
-                    sumSeries += Math.Sin(x) + 2 / k;
+                    sumSeries += Math.Sin(x) +( 2 / k);
                 }
 
             }
