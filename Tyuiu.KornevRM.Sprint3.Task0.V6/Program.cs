@@ -15,7 +15,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task0.V6
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
-            Console.WriteLine("* Выполнила: Корнев Р. М. | ИСПб-24-1                                     *");
+            Console.WriteLine("* Выполнил: Корнев Р. М. | ИСПб-24-1                                     *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл for, которая вычисляет произведение   *");
