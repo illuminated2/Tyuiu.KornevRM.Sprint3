@@ -6,6 +6,17 @@ namespace Tyuiu.KornevRM.Sprint3.Task5.V14
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+            Console.Title = "Спринт #3 | Выполнил: Корнев Р. М. | ИСПб-24-1";
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("* Тема: Алгоритмы циклической структуры                                   *");
+            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Вариант #14                                                             *");
+            Console.WriteLine("* Выполнил: Корнев Р. М. | ИСПб-24-1                                      *");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* Найти сумму ряда при x = 5                                              *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
