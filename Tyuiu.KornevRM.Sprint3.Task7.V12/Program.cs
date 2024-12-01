@@ -44,7 +44,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task7.V12
 
             for (int i = 0; i <= len - 1; i++)
             {
-                Console.WriteLine("|{0,5:d}     | {1,6:f2}   |", startValue, arr[i]);
+                Console.WriteLine("|{0}     | {1,6:f2}   |", startValue, arr[i]);
                 startValue++;
             }
             Console.WriteLine("+----------+----------+");
