@@ -12,11 +12,11 @@ namespace Tyuiu.KornevRM.Sprint3.Task1.V24
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #6                                                              *");
-            Console.WriteLine("* Выполнил: Варова Ангелина Александровна | ИИПб-23-2                    *");
+            Console.WriteLine("* Выполнил: Корнев Р. М. | ИСПб-24-1                                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму ряда   *");
-            Console.WriteLine("* по формуле, при a=4                                                     *");
+            Console.WriteLine("* по формуле, при x=5                                                     *");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
