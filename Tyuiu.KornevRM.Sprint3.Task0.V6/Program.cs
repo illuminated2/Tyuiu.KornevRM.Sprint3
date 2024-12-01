@@ -8,7 +8,7 @@ namespace Tyuiu.KornevRM.Sprint3.Task0.V6
             DataService ds = new DataService();
 
 
-            Console.Title = "Спринт #3 | Выполнила: Корнев Р. М. | ИСПб-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Корнев Р. М. | ИСПб-24-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");

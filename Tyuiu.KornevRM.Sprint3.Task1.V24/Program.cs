@@ -6,6 +6,18 @@ namespace Tyuiu.KornevRM.Sprint3.Task1.V24
         static void Main(string[] args)
         {
             DataService ds = new DataService();
+            Console.Title = "Спринт #3 | Выполнила: Варова А. А. | ИИПб-23-2";
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* Спринт #3                                                               *");
+            Console.WriteLine("* Тема: Оператор цикла while                                              *");
+            Console.WriteLine("* Задание #1                                                              *");
+            Console.WriteLine("* Вариант #6                                                              *");
+            Console.WriteLine("* Выполнила: Варова Ангелина Александровна | ИИПб-23-2                    *");
+            Console.WriteLine("***************************************************************************");
+            Console.WriteLine("* УСЛОВИЕ:                                                                *");
+            Console.WriteLine("* Написать программу используя цикл while, которая вычисляет сумму ряда   *");
+            Console.WriteLine("* по формуле, при a=4                                                     *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
